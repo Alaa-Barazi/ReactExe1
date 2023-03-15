@@ -13,7 +13,7 @@ const person = {
         }
     },
     getFullName() {
-        return `${this.name} Doe`;
+        return `${name} Doe`;
     }
 };
 
